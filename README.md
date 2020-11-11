@@ -1,1 +1,1 @@
-# -ReactCooperatingWithRedux
+# ReactCooperatingWithRedux
